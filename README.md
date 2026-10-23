@@ -10,4 +10,4 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 ### Pàgines web
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
-- [67 Jose Miguel Miralles Gandia(josemidev1.site)]
+- [ Jose Miguel Miralles Gandia] (https://josemidev1.site)
