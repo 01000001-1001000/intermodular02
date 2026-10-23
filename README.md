@@ -1,22 +1,12 @@
-# Repositori activitat 02 Projecte Intermodular 1r DAW
 
-### Llistat pel·lícules alumnat
+# Repositori activitat 02 - Projecte Intermodular
 
+### Llistat de pàgines web de l'alumnat
 
+En aquesta activitat publicarem una pàgina web mitjançant GitHub Pages.
 
+Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enllaç a la seua pàgina web i enviar una Pull Request.
 
+### Pàgines web
 
-
-
-- [00 Raül](https://raulvallsaranda.github.io/)
-- [11 Eleazar](https://eleazar-1.github.io/)
-- [12 MJose](https://mjosebh.github.io)
-- [13 Carlos](https://carvalmul.github.io)
-- [21 Daniel](https://Draxler-GJ.github.io)
-- [25 Iker](https://ikeralaest.github.io)
-- [26 Cesar](https://CesarOltraPart.github.io)
-- [31 Alejandro](https://agarrido04.github.io/)
-- [45 Neil](https://galan170.github.io)
-- [46 Arnau](https://arnaudaw.github.io/)
-
-
+- [00 Alejandro Hernández](https://ahernandezdom.github.io/)
