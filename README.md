@@ -10,3 +10,5 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 ### Pàgines web
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
+- [0X Al Hayy Castellá](https://01000001-1001000.github.io/AGM-PE/)
+
