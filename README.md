@@ -11,6 +11,8 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
 - [Santiago Martinez Cordoba](https://github.com/santimartinezcordoba-prog/mi-web2)
+- [01 Héctor Piquer] (https://hectorpiquer.github.io/web_personal/)
 - [Iván Gómez Navarro](https://ivan-gva.github.io/)
 - [ Jose Miguel Miralles Gandia] (https://josemidev1.site)
 - [Alex Baicu](https://alexbaicu.es/)
+- [Jose Ruiz Casal](https://josruicas2.github.io/)
