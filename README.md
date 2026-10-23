@@ -11,3 +11,4 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 
 - [00 Alejandro Hernández](https://ahernandezdom.github.io/)
 - [Alex Baicu](https://alexbaicu.es/)
+- [Hugo Signes](https://hugosignes.github.io/hugosignes/)
