@@ -14,6 +14,7 @@ Cada alumne haurà de fer un fork d'aquest repositori, afegir el seu nom i l'enl
 -  14 Javier Sansano https://javiersansano222.github.io/mi-web/
 
 - [Alex Baicu](https://alexbaicu.es/)
+- [Hugo Signes](https://hugosignes.github.io/hugosignes/)
 [13 Gabriel Vidal BAdia](https://github.com/gabi37smx/mi-web.git)
 - [01 Héctor Piquer] (https://hectorpiquer.github.io/web_personal/)
 
